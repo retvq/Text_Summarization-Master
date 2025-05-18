@@ -56,4 +56,4 @@ You are free to use, modify, and distribute this software in personal, academic,
 **MIT License**
 
 Copyright (c) 2025
-Ritvik Vasundh, Himashree K, Sachin Prakash K, Shourya Pratap Singh
+Ritvik Vasundh
