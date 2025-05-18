@@ -1,11 +1,4 @@
-````
-# Text Summarization using Frequency and Sinusoidal Weighting
-
-## Project Contributors
-- **K Himasree** - ENG22AM0103  
-- **Ritvik Vasundh** - ENG22AM0125  
-- **Sachin Prakash Kurup** - ENG22AM0126  
-- **Shourya Pratap Singh Chouhan** - ENG22AM0131  
+# Text Summarization using Frequency and Sinusoidal Weighting 
 
 ## Overview
 This project implements multiple text summarization techniques based on word frequency and sinusoidal sentence weighting. It analyzes a body of text and extracts the most informative sentences using different statistical and positional strategies.
@@ -29,7 +22,7 @@ This project implements multiple text summarization techniques based on word fre
    ```bash
    git clone <your-repo-url>
    cd <repo-directory>
-````
+   ```
 
 2. Install the dependencies:
 
